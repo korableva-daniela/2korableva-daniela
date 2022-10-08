@@ -8,25 +8,25 @@ header {
     border-bottom: 5px outset #6A5ACD;
 }
 h3 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 300;
 }
 h1 {
-    font-size: 25px;
+    font-size: 20px;
     color: #483D8B;
     font-weight: 350;
 }
 h2 {
-    font-size: 20px;
+    font-size: 15px;
     color: #191970;
     font-weight: 500;
 }
 .container-fluid {
     background-color: #B0E0E6;
-    font-size: 13px;
+    font-size: 10px;
 }
 b {
-    font-size: 15px;
+    font-size: 12px;
     color: #191970;
     font-weight: 500;
 }
