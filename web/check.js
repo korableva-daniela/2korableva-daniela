@@ -27,7 +27,7 @@ function calc() {
         result.innerHTML = "Введены были не числа";
     }
     else {
-        result.innerHTML = names + " , ваш заказ стоит: " + r + " рублей";
+        result.innerHTML = names + " , стоимость вашего заказа составляет: " + r + " рублей";
     }
 }
 window.addEventListener("DOMContentLoaded", function (event) {
