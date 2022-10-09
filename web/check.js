@@ -27,10 +27,10 @@ function calc() {
         result.innerHTML = "Введены были не числа";
     }
     else {
-        result.innerHTML = names + " , стоимость вашего заказа составляет: " + r + " рублей";
+        result.innerHTML =  " стоимость вашего заказа составляет: " + r + " рублей";
     }
 }
 window.addEventListener("DOMContentLoaded", function (event) {
   console.log("DOM fully loaded and parsed");
 });
-let names = prompt("Введите ваши Фамилию и имя","Уважаемый клиент");
+
